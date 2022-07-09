@@ -14,7 +14,7 @@
 .que.oumultiresponse .answer div.r0,
 .que.oumultiresponse .answer div.r1 {
     display: flex;
-    margin: 0.35em 1em;
+    margin: 0.35rem 0;
     align-items: flex-start;
 }
 
@@ -47,8 +47,9 @@
 
 .que.oumultiresponse .answer div.r0 input,
 .que.oumultiresponse .answer div.r1 input {
-    margin: 0.35em 1em;
-    padding: 0;
+    margin: 0.3rem 0.5rem;
+    width: 14px;
+    flex-shrink: 0;
 }
 
 .que.oumultiresponse .answer div.r0 span.answernumber,
