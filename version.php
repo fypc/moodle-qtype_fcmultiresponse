@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 
-$plugin->version   = 2022040100;
-$plugin->requires  = 2021051700;
+$plugin->version   = 2022070800;
+$plugin->requires  = 2022040100;
 $plugin->component = 'qtype_oumultiresponse';
 $plugin->maturity  = MATURITY_STABLE;
 $plugin->release   = '2.4 for Moodle 3.11+';

@@ -11,8 +11,8 @@
     align-items: baseline;
 } */
 
-.que.fcmultiresponse .answer div.r0,
-.que.fcmultiresponse .answer div.r1 {
+.que.oumultiresponse .answer div.r0,
+.que.oumultiresponse .answer div.r1 {
     display: flex;
     margin: 0.35em 1em;
     align-items: flex-start;
@@ -45,8 +45,8 @@
     width: 15px;
 } */
 
-.que.fcmultiresponse .answer div.r0 input,
-.que.fcmultiresponse .answer div.r1 input {
+.que.oumultiresponse .answer div.r0 input,
+.que.oumultiresponse .answer div.r1 input {
     margin: 0.35em 1em;
     padding: 0;
     width: auto;
